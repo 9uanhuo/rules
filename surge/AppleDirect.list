@@ -1,0 +1,6 @@
+# General
+# https://support.apple.com/en-us/101555
+DOMAIN,cable.auth.com
+
+# Apple Podcasts
+DOMAIN-SUFFIX,podcasts.apple.com
